@@ -18,6 +18,7 @@
     </licenses>
     <modules>
         <module>ldap</module>
+        <module>roleMapper</module>
     </modules>
     <properties>
     <!-- Explicitly declaring the source encoding eliminates the following message: -->
